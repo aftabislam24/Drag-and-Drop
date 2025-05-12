@@ -26,3 +26,12 @@
     margin: 5px;
     background-color: #edede9;
 }
+.notification{
+    position: absolute;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #dadadaa8;
+    border-radius: 10px;
+    display: none;
+}
